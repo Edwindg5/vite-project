@@ -1,0 +1,23 @@
+.game-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .game-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .game-card-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .game-card-title {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  

@@ -1,0 +1,78 @@
+.home-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.home-page h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.game-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.explore-section {
+  margin-top: 50px;
+  background-color: #b3e5fc; 
+  padding: 20px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.explore-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.explore-section p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  text-align: justify; 
+}
+
+.contact-section {
+  margin-top: 50px;
+  background-color: #0b18ae; 
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.contact-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.social-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.social-list li {
+  margin: 0 10px;
+}
+
+.social-list a {
+  color: #0d47a1;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.social-list a:hover {
+  text-decoration: underline;
+}
+
+.author-name {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

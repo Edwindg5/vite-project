@@ -1,0 +1,9 @@
+.text-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #6200ea;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
