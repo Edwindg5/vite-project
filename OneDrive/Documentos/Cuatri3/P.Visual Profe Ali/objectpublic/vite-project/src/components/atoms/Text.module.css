@@ -1,0 +1,17 @@
+.pg_text {
+  width: 100%;
+  padding: 15px;
+  border-radius: 10px;
+  border: 2px solid rgb(34, 34, 34);
+  background-color: #1e1e1e;
+  color: #fff;
+  text-align: justify;
+  margin: 10px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+  box-sizing: border-box;
+}
+
+.pg_text:hover {
+  transform: scale(1.05);
+}

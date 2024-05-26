@@ -1,0 +1,11 @@
+.section {
+  width: 90%;
+  padding: 30px;
+  background-color: #282828;
+  border-radius: 10px;
+  margin: 20px 0;
+  text-align: center;
+  box-sizing: border-box;
+  color: white;
+}
+
